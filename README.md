@@ -12,16 +12,16 @@ The Journal "Balance, The human mind, the most fascinating machine" is a book ma
 
 ## 📖Technologies Used
 
-JavaScript
-CSS
-HTML5
+- JavaScript
+- CSS
+- HTML5
 
 
 ## 🏹How to Use
 
-Launch the jurnal to see the book and pages.
-Click to enable planet name labels.
-Click on a planet to see facts about that specific planet.
+- Launch the jurnal to see the book and pages;
+- Click the buttons to turn the page;
+- Read the jurnal and leave a feedback;
 
 ## 💡 Educational Value
 
