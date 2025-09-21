@@ -1,7 +1,7 @@
-let imaginii = ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg", "6.jpg","7.jpg","8.jpg","9.jpg","10.jpg", "11.jpg","12.jpg","13.jpg","14.jpg","15.jpg", "16.jpg","17.jpg","18.jpg","19.jpg","20.jpg", "21.jpg","22.jpg","23.jpg","24.jpg","25.jpg", "26.jpg","27.jpg","28.jpg","29.jpg","30.jpg"]
+let imaginii = ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg", "6.jpg","7.jpg","8.jpg","9.jpg","10.jpg", "11.jpg","12.jpg","13.jpg","14.jpg","15.jpg", "16.jpg","17.jpg","18.jpg","19.jpg","20.jpg", "21.jpg","22.jpg","23.jpg","24.jpg","25.jpg", "26.jpg","27.jpg","28.jpg","29.jpg","30.jpg","31.jpg" , "32.jpg" , "33.jpg" , "34.jpg" , "35.jpg" , "36.jpg"];
 document.getElementById("p1").style.display = "none";
-let culori = ["#99dfec" , "#e2cbf6" , "#77c5ae" , "#f7a17b" , "#ebd469" , "#804c3a" , "#0d0d0c" , "#6b0b13" , "#e597dd" , "#370632" , "#06370b" , "#36a3ce" , "#243662" , "#1d1c1d" , "#a180ad" , "#99dfec" ];
-let culori1 = ["#003da4" , "#9939edff" , "#c8fcdeff" , "#f55916ff" , "#fff4c1ff" , "#ea4008ff" , "#5e0badff" , "#f5091dff" , "#e009caff" , "#c229b3ff" , "#17dd2bff" , "#7bd3f6ff" , "#0f50f2ff" , "#f6f187ff" , "#b61ceeff","#003da4"];
+let culori = ["#99dfec" , "#e2cbf6" , "#77c5ae" , "#f7a17b" , "#ebd469" , "#804c3a" , "#0d0d0c" , "#6b0b13" , "#e597dd" , "#370632" , "#06370b" , "#36a3ce" , "#243662" , "#1d1c1d" ,"#184952","#804C3A","#993B2C", "#a180ad" , "#99dfec" ];
+let culori1 = ["#003da4" , "#9939edff" , "#c8fcdeff" , "#f55916ff" , "#fff4c1ff" , "#ea4008ff" , "#5e0badff" , "#f5091dff" , "#e009caff" , "#c229b3ff" , "#17dd2bff" , "#7bd3f6ff" , "#0f50f2ff" , "#f6f187ff" ,"#789994","#f63e22ff","orange", "#b61ceeff","#003da4"];
 let index = 0;
 let i = 0;
 function inainte(n){
